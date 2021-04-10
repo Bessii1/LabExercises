@@ -89,7 +89,6 @@ class Main {
             System.out.println("Your password matches the requirements");
         } else
             System.out.println("Please mathc the requirements");
-
     }
 
 
